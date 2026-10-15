@@ -1,0 +1,1 @@
+[![Haisheng Su's GitHub Stats](https://github-stats-extended.vercel.app/api?username=suhaisheng&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&custom_title=Haisheng%20Su%27s%20GitHub%20Stats)](https://github.com/suhaisheng?tab=repositories)
