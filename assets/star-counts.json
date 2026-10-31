@@ -3,7 +3,7 @@
   "organization_projects": [
     {
       "repository": "manifoldai-research/WorldScape-Policy",
-      "stars": 65
+      "stars": 66
     },
     {
       "repository": "worldbench/awesome-vla-for-ad",
@@ -11,9 +11,9 @@
     },
     {
       "repository": "XPolicyLab/XPolicyLab",
-      "stars": 505
+      "stars": 509
     }
   ],
-  "total_stars_earned": 1267,
+  "total_stars_earned": 1272,
   "rank": "B"
 }
