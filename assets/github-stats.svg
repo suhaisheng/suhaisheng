@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Haisheng Su&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 1379 Total Commits  : 91, Total PRs: 6, Total Issues: 7, Contributed to (last year): 5 Stars include personal repositories plus manifoldai-research/WorldScape-Policy, worldbench/awesome-vla-for-ad, XPolicyLab/XPolicyLab.</desc>
+        <desc id="descId">Total Stars Earned: 1384 Total Commits  : 91, Total PRs: 7, Total Issues: 7, Contributed to (last year): 6 Stars include personal repositories plus manifoldai-research/WorldScape-Policy, worldbench/awesome-vla-for-ad, XPolicyLab/XPolicyLab.</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -72,7 +72,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.11591354206266;
+        stroke-dashoffset: 138.30970788643862;
       }
     }
 
@@ -99,7 +99,7 @@
       }
 
 
-        .stagger { opacity: 1; animation: none; } .header { animation: none; } .rank-text { animation: none; transform: translate(-5px, 5px); } .rank-circle { animation: none; stroke-dashoffset: 139.11591354206266; }</style>
+        .stagger { opacity: 1; animation: none; } .header { animation: none; } .rank-text { animation: none; transform: translate(-5px, 5px); } .rank-circle { animation: none; stroke-dashoffset: 138.30970788643862; }</style>
 
 
         <defs>
@@ -166,7 +166,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >1,379</text>
+      >1,384</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >6</text>
+      >7</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -226,7 +226,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >6</text>
     </g>
   </g>
     </svg>
